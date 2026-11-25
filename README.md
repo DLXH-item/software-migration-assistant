@@ -1,10 +1,10 @@
 # 软件迁移助手 · Software Migration Assistant
 
-![软件迁移助手 v3.3 界面](docs/screenshot.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DLXH-item/software-migration-assistant/main/docs/screenshot.png" width="860" alt="软件迁移助手 v3.3 界面截图">
+</p>
 
 > 把本机装好的**任意 Windows 软件**（程序文件 + 注册表 + 配置 + 缓存 + 存档 + 快捷方式）原样完整打包成一个 `.zip`，拷到新电脑一键还原，桌面自动出图标，双击即用。
->
-> 界面截图：<https://aka.doubaocdn.com/s/QxiL3pN1Er>
 
 **当前版本：v3.3** · 绿色单文件 · 约 10.2 MB · Windows 7 及以上 · **完全免费开源（MIT）**
 
