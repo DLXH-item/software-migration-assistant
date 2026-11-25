@@ -1,9 +1,5 @@
 # 软件迁移助手 · Software Migration Assistant
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DLXH-item/software-migration-assistant/main/docs/screenshot.png" width="860" alt="软件迁移助手 v3.3 界面截图">
-</p>
-
 > 把本机装好的**任意 Windows 软件**（程序文件 + 注册表 + 配置 + 缓存 + 存档 + 快捷方式）原样完整打包成一个 `.zip`，拷到新电脑一键还原，桌面自动出图标，双击即用。
 
 **当前版本：v3.3** · 绿色单文件 · 约 10.2 MB · Windows 7 及以上 · **完全免费开源（MIT）**
@@ -264,3 +260,13 @@ python -m PyInstaller --noconfirm --onefile --noconsole --name "软件迁移助�
 ## 六、许可证
 
 [MIT License](LICENSE) © 2026 DLXH-item
+
+---
+
+## 七、界面截图
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DLXH-item/software-migration-assistant/main/docs/screenshot.png" width="860" alt="软件迁移助手 v3.3 界面截图">
+</p>
+
+<p align="center">软件迁移助手 v3.3 · 打包导出页（左侧已安装软件可多选，右侧自动分析目录与配置）</p>
